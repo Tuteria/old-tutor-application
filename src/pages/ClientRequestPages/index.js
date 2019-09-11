@@ -1,0 +1,9 @@
+export { SelectSubjectComponent } from "./SubjectSelectionComponent";
+export { AboutUserComponent } from "./AboutUserComponent";
+export { LocationComponent } from "./LocationComponent";
+export { PageContainer } from "./ClientPageWrapper";
+export { ClientThankYou } from "./ThankYou";
+export { UpSellComponent } from "./UpsellComponent";
+export { PersonalInfoComponent } from "./PersonalInfoComponent";
+export { RecommendationComponent } from "./RecommendationComponent";
+export { LessonScheduleComponent } from "./LessonScheduleComponent";

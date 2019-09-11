@@ -1,0 +1,449 @@
+{
+    "states": [
+        {
+            "name": "Abia",
+            "factor": 70
+        },
+        {
+            "name": "Abuja",
+            "factor": 90
+        },
+        {
+            "name": "Adamawa",
+            "factor": 70
+        },
+        {
+            "name": "Akwa Ibom",
+            "factor": 70
+        },
+        {
+            "name": "Anambra",
+            "factor": 70
+        },
+        {
+            "name": "Bayelsa",
+            "factor": 70
+        },
+        {
+            "name": "Bauchi",
+            "factor": 70
+        },
+        {
+            "name": "Benue",
+            "factor": 70
+        },
+        {
+            "name": "Borno",
+            "factor": 70
+        },
+        {
+            "name": "Cross River",
+            "factor": 70
+        },
+        {
+            "name": "Delta",
+            "factor": 70
+        },
+        {
+            "name": "Edo",
+            "factor": 70
+        },
+        {
+            "name": "Ebonyi",
+            "factor": 70
+        },
+        {
+            "name": "Ekiti",
+            "factor": 70
+        },
+        {
+            "name": "Enugu",
+            "factor": 70
+        },
+        {
+            "name": "Gombe",
+            "factor": 70
+        },
+        {
+            "name": "Imo",
+            "factor": 70
+        },
+        {
+            "name": "Jigawa",
+            "factor": 70
+        },
+        {
+            "name": "Kaduna",
+            "factor": 70
+        },
+        {
+            "name": "Kano",
+            "factor": 70
+        },
+        {
+            "name": "Katsina",
+            "factor": 70
+        },
+        {
+            "name": "Kebbi",
+            "factor": 70
+        },
+        {
+            "name": "Kogi",
+            "factor": 70
+        },
+        {
+            "name": "Kwara",
+            "factor": 70
+        },
+        {
+            "name": "Lagos",
+            "factor": 100
+        },
+        {
+            "name": "Nassawara",
+            "factor": 70
+        },
+        {
+            "name": "Niger",
+            "factor": 70
+        },
+        {
+            "name": "Ogun",
+            "factor": 70
+        },
+        {
+            "name": "Ondo",
+            "factor": 70
+        },
+        {
+            "name": "Osun",
+            "factor": 70
+        },
+        {
+            "name": "Oyo",
+            "factor": 70
+        },
+        {
+            "name": "Plateau",
+            "factor": 70
+        },
+        {
+            "name": "Rivers",
+            "factor": 90
+        },
+        {
+            "name": "Sokoto",
+            "factor": 70
+        },
+        {
+            "name": "Taraba",
+            "factor": 70
+        },
+        {
+            "name": "Yobe",
+            "factor": 70
+        },
+        {
+            "name": "Zamfara",
+            "factor": 70
+        }
+    ],
+    "skills": [
+        {
+            "name": "General Mathematics",
+            "base_price": 2000
+        },
+        {
+            "name": "English Language",
+            "base_price": 1500
+        },
+        {
+            "name": "Physics",
+            "base_price": 1500
+        },
+        {
+            "name": "Chemistry",
+            "base_price": 1700
+        },
+        {
+            "name": "Geography",
+            "base_price": 1900
+        }
+    ],
+    "defaultSubject": "English Language",
+    "intro_section": {
+        "title": "Earn money teaching what you love",
+        "subtitle": "Turn your free time into extra income.",
+        "button_text": "Become a Tutor",
+        "action_text": "See what you could earn",
+        "location_placeholder": "Select your vicinity/state...",
+        "skill_placeholder": "Try 'English Language'",
+        "heading": "What you could earn in "
+    },
+    "tutor_list_section": {
+        "title": "Join our growing tutor community",
+        "data": [
+            {
+                "id": 0,
+                "img": "/static/img/tutors/Demilola-Fashion-Tutor-on-Tuteria.jpg",
+                "name": "Demilola",
+                "description": "Fashion Design Tutor",
+                "content": "It's been great working with Tuteria. The platform has connected me to people who require my skills as a tutor. I have also been able to earn extra income (from being a tutor) outside of my daily job. The working hours are flexible too! ",
+                "modal_content": {
+                    "testimonial": {
+                        "name": "Demilola",
+                        "description": "Top rated tutor, completed 230 lessons",
+                        "image": "/static/img/tutors/Demilola-Fashion-Tutor-on-Tuteria.jpg"
+                    }
+                },
+                "hovered": false,
+                "isNotHovered": false,
+                "joined": "2 years",
+                "lessonsCompleted": 12
+            },
+            {
+                "id": 1,
+                "img": "/static/img/tutors/Judith-German-Tutor-on-Tuteria.jpg",
+                "name": "Judith",
+                "description": "German Language Tutor",
+                "content": "I joined Tuteria a year ago. It allowed me shuffle my academics and tutoring at a very convenient pace. I've tutored several children, and it's been very fulfilling to see the impact I've made. I've also improved because of the demand for German Language tutoring. It's nice doing business with Tuteria!",
+                "modal_content": {
+                    "testimonial": {
+                        "name": "Judith",
+                        "description": "Top rated tutor, completed 230 lessons",
+                        "image": "/static/img/tutors/Judith-German-Tutor-on-Tuteria.jpg"
+                    }
+                },
+                "hovered": false,
+                "isNotHovered": false,
+                "joined": "1 year",
+                "lessonsCompleted": 24
+            },
+            {
+                "id": 2,
+                "img": "/static/img/tutors/Fadiji-Yoruba-Tutor-on-Tuteria.jpg",
+                "name": "Fadiji",
+                "description": "Yoruba Language Tutor",
+                "content": "Tuteria has given me the opportunity to help people read, write and speak Yoruba with great enthusiasm; and I have gained more confidence in the process. Tuteria's staff are very open, caring and reliable, keeping accurate accounts which makes me feel comfortable and happy to be a part of the team!",
+                "modal_content": {
+                    "testimonial": {
+                        "name": "Fadiji",
+                        "description": "Top rated tutor, completed 230 lessons",
+                        "image": "/static/img/tutors/Fadiji-Yoruba-Tutor-on-Tuteria.jpg"
+                    }
+                },
+                "hovered": false,
+                "isNotHovered": false,
+                "joined": "2 years",
+                "lessonsCompleted": 187
+            },
+            {
+                "id": 3,
+                "img": "/static/img/tutors/ThankGod-Swimming-Tutor-on-Tuteria.jpg",
+                "name": "ThankGod",
+                "description": "Swimming Tutor",
+                "content": "My client is easy to teach, and she's a fast learner. She explained her weaknesses and was eager to learn which facilitated her significant improvement. After just 2 lessons, she was able to swim to and fro the length of the pool! For me, teaching with Tuteria has been an amazing experience.",
+                "modal_content": {
+                    "testimonial": {
+                        "name": "Chinasa",
+                        "description": "Top rated tutor, completed 230 lessons",
+                        "image": "/static/img/tutors/ThankGod-Swimming-Tutor-on-Tuteria.jpg"
+                    }
+                },
+                "hovered": false,
+                "isNotHovered": false,
+                
+                "joined": "8 months",
+                "lessonsCompleted": 6
+            },
+            {
+                "id": 4,
+                "img": "/static/img/tutors/Samuel-Financial-Analysis-Tutor-on-Tuteria.jpg",
+                "name": "Samuel",
+                "description": "Financial Analysis Tutor",
+                "content": "I have taught premium clients on Tuteria. Their process is well-structured to protect the interests of both tutors and clients, especially with clients required to pay in advance which is held in trust until service delivery is confirmed. The rating system ensures that both parties act professionally.",
+                "modal_content": {
+                    "testimonial": {
+                        "name": "Demilola",
+                        "description": "Top rated tutor, completed 230 lessons",
+                        "image": "/static/img/tutors/Samuel-Financial-Analysis-Tutor-on-Tuteria.jpg"
+                    }
+                },
+                "hovered": false,
+                "isNotHovered": false,
+                "joined": "1 year",
+                "lessonsCompleted": 26
+            },
+            {
+                "id": 5,
+                "img": "/static/img/tutors/Chinasa-Math-English-Tutor-Tuteria.jpg",
+                "name": "Chinasa",
+                "description": "Math & English Tutor",
+                "content": "My experience with Tuteria has been great! I signed up over a year ago, and between then and now, I have been matched with good clients. The booking system is accurate and my payment is always prompt. I do not have any issues working with Tuteria.",
+                "modal_content": {
+                    "testimonial": {
+                        "name": "Tolulope",
+                        "description": "Top rated tutor, completed 230 lessons",
+                        "image": "/static/img/tutors/Chinasa-Math-English-Tutor-Tuteria.jpg"
+                    }
+                },
+                "hovered": false,
+                "isNotHovered": false,
+                "joined": "2 years",
+                "lessonsCompleted": 242
+            },
+            {
+                "id": 6,
+                "img": "/static/img/tutors/Adewale-GMAT-Tutor-on-Tuteria.jpg",
+                "name": "Adewale",
+                "description": "GMAT Tutor",
+                "content": "I’ve had an awesome experience so far on Tuteria. The platform has connected me with a good number of students preparing for GMAT and GRE. So far, all my students have passed their exams and given me satisfactory remarks. Tuteria has helped me help a lot of people and I’m happy about this.",
+                "modal_content": {
+                    "testimonial": {
+                        "name": "Akinpelumi",
+                        "description": "Top rated tutor, completed 230 lessons",
+                        "image": "/static/img/tutors/Adewale-GMAT-Tutor-on-Tuteria.jpg"
+                    }
+                },
+                "hovered": false,
+                "isNotHovered": false,
+                "joined": "2 years",
+                "lessonsCompleted": 72
+            }
+        ]
+    },
+    "become_tutor_section": {
+        "title": "How to become a tutor",
+        "data": [
+            {
+                "image": "/static/img/how-to/lady-working-on-laptop-creating-subject-tuteria@2x.jpg",
+                "heading": "Create your subjects",
+                "paragraph": "It’s free and easy to create a subject on Tuteria. Simply click on “Become a Tutor”, and enter your personal details. <br /> <br /> Add subjects you want to teach, take a quick test, then set the price you’ll charge clients per hour - and you’re good to go!"
+            },
+            {
+                "image": "/static/img/how-to/teaching-a-child-like-a-pro-tuteria.jpg",
+                "heading": "Teach like a pro",
+                "paragraph": "Tuteria connects you with clients near you who are looking to learn the skills you’re good at. <br /> <br /> It’s also flexible! You’re free to choose the days and hours you intend to teach each week, while you help your clients achieve their goals."
+            },
+            {
+                "heading": "Get paid!",
+                "image": "/static/img/how-to/get-paid-receive-alert-tuteria-tutor.jpg",
+                "paragraph": "Tuteria’s Payment Protection ensures you get paid on time and without hassles, so that you can focus on teaching. <br /> <br /> Clients are charged before lessons begin, and you’re paid automatically after you teach each lesson, minus a 30% service fee."
+            }
+        ]
+    },
+    "safety_section": {
+        "title": "Safety on Tuteria",
+        "data": [
+            {
+                "icon": "tuteria-payment",
+                "heading": "Payment Protection",
+                "description": "Tuteria guarantees direct payment to your local bank as soon as you complete each lesson"
+            },
+            {
+                "icon": "tuteria-trust",
+                "description": "As a tutor, you’re required to provide a valid government ID as part of our verification process",
+                "heading": "Trust & Safety"
+            },
+            {
+                "icon": "tuteria-teach",
+                "heading": "Grow your earnings",
+                "description": "Initially, you’ll earn 70% of what clients pay which increases to 80% as you teach more hours."
+            }
+        ],
+        "subtitle": "Tuteria has received support, media and awards",
+        "awards": [
+            {
+                "image": "/static/img/news/1.png",
+                "name": "forbes",
+                "link": ""
+            },
+            {
+                "link": "",
+                "image": "/static/img/news/2.png",
+                "name": "royal"
+            },
+            {
+                "image": "/static/img/news/3.png",
+                "link": "",
+                "name": "facebook"
+            },
+            {
+                "link": "",
+                "image": "/static/img/news/4.png",
+                "name": "bbc"
+            },
+            {
+                "link": "",
+                "image": "/static/img/news/5.png",
+                "name": "futureaward"
+            },
+            {
+                "link": "",
+                "image": "/static/img/news/6.jpg",
+                "name": "pitch-palace"
+            },
+            {
+                "link": "",
+                "image": "/static/img/news/7.jpeg",
+                "name": "mit"
+            }
+        ]
+    },
+    "faq_section": {
+        "title": "Frequently Asked Questions",
+        "data": [
+            {
+                "heading": "Who can teach on Tuteria?",
+                "opened": true,
+                "description": "If you’re passionate about teaching, have good track-record to show your experience, and you’re above 18, then you should join us!"
+            },
+            {
+                "heading": "What can I teach?",
+                "opened": false,
+                "description": "You can teach almost any subject or skill, and share your passion with others! From Phonics, to Math, German, Coding, GMAT, ACCA, Tennis and even Photography! "
+            },
+            {
+                "heading": "Is the teaching done online or offline?",
+                "opened": false,
+                "description": "Most lessons take place offline at a location you agree with your client, but you can also teach online depending on your subject."
+            },
+            {
+                "heading": "How much money can I make?",
+                "opened": true,
+                "description": "It's totally up to you! You’re in control of how much you charge, and the number of clients you can teach."
+            },
+            {
+                "heading": "How much does it cost to join?",
+                "opened": false,
+                "description": "It's totally free to join Tuteria! As a new tutor, you earn 70% of clients pay which increases to 80% as you teach more hours."
+            },
+            {
+                "heading": "How do I get paid?",
+                "opened": false,
+                "description": "You’re paid directly to your bank 24 hours after you complete a lesson and submit it on our system. No more chasing clients for money!"
+            }
+        ]
+    },
+    "call_to_action_section": {
+        "image":"/static/img/background2_pc.jpg",
+        "title": "Impact the next generation",
+        "description": "Tuteria gives you the opportunity to teach more people and make impact on a bigger stage.",
+        "button_text": "Become a Tutor Now"
+    },
+    "footer_section": {
+        "terms_link": "https://www.tuteria.com/terms/",
+        "privacy_link": "https://www.tuteria.com/policies/",
+        "help_link": ""
+    },
+    "carousel_images": [
+        "/static/img/carousel/tuteria-tutor-english-language-kid.jpg",
+        "/static/img/carousel/Guitar-Tutor-on-Tuteria-teaching-child-smiling@2x.jpg",
+        "/static/img/carousel/Makeup-Tutor-on-Tuteria-teaching-adult-student-smiling@2x.jpg",
+        "/static/img/carousel/Tailoring-Tutor-on-Tuteria-teaching-adult-student-smiling@2x.jpg"
+    ],
+    "nextUrl": "",
+    "loggedInText": "Become a tutor",
+    "popUpModal": false
+}

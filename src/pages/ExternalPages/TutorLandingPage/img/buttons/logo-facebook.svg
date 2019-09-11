@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>logo-facebook</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="External-Pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Signup-Popup-2" transform="translate(-451.000000, -199.000000)" fill-rule="nonzero">
+            <g id="Group-2" transform="translate(420.000000, 183.000000)">
+                <g id="logo-facebook" transform="translate(31.000000, 16.000000)">
+                    <path d="M15.3333333,16 C15.7015233,16 16,15.7015233 16,15.3333333 L16,0.666666667 C16,0.298476667 15.7015233,0 15.3333333,0 L0.666666667,0 C0.298476667,0 0,0.298476667 0,0.666666667 L0,15.3333333 C0,15.7015233 0.298476667,16 0.666666667,16 L15.3333333,16 Z" id="White_4_" fill="#4568B1"></path>
+                    <path d="M8.46318047,16 L8.46318047,9.62785565 L6.33333333,9.62785565 L6.33333333,7.28022351 L8.46318047,7.28022351 L8.46318047,5.54478006 C8.46318047,3.46552588 9.70028588,2.33333333 11.5071685,2.33333333 C12.3726826,2.33333333 13.1165481,2.3994829 13.3333333,2.42904965 L13.3333333,4.60199112 L12.0801638,4.60257467 C11.0974801,4.60257467 10.907207,5.08192426 10.907207,5.78533522 L10.907207,7.28022351 L13.1941438,7.28022351 L12.8674386,9.62785565 L10.907207,9.62785565 L10.907207,16 L8.46318047,16 Z" id="White_2_" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

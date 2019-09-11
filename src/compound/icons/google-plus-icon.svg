@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="18px" viewBox="0 0 24 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>google-plus-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="External-Pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Signup-Popup" transform="translate(-535.000000, -380.000000)" fill-rule="nonzero" fill="#DE4D3B">
+            <g id="google-plus-icon" transform="translate(535.000000, 380.000000)">
+                <polygon id="Shape" points="24 7.5 22 7.5 22 5.5 20 5.5 20 7.5 18 7.5 18 9.5 20 9.5 20 11.5 22 11.5 22 9.5 24 9.5"></polygon>
+                <path d="M16.52643,7.504455 L9,7.5 L9,10.5 L13.301085,10.5 C13.06897,11.769715 11.797485,14.085875 8.5,14.085875 C5.59784,14.085875 3.22998,11.68158 3.22998,8.71875 C3.22998,5.755915 5.59784,3.35162 8.5,3.35162 C10.15143,3.35162 11.25641,4.055905 11.88788,4.66302 L14.19501,2.440915 C12.71356,1.05658 10.794985,0.218755 8.5,0.218755 C3.80072,0.218755 0,4.01947 0,8.718755 C0,13.41803 3.80072,17.218755 8.5,17.218755 C14.347785,17.218755 17.359905,12.36501 16.52643,7.504455 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,283 @@
+{
+  "ielts": {
+    "or": true,
+    "exam_type": ["Academic", "General Training"],
+    "purposes": [
+      "Visa and Immigration",
+      "Work or Study Abroad",
+      "Medical or Nursing Exam",
+      "General Purposes"
+    ],
+    "sections": ["Writing", "Reading", "Listening", "Speaking"],
+    "max_score": {
+      "Writing": "9.0",
+      "Reading": "9.0",
+      "Listening": "9.0",
+      "Speaking": "9.0"
+    },
+    "cross_sell": ["Materials", "Registration"]
+  },
+  "toefl": {
+    "or": true,
+    "exam_type": ["TOEFL"],
+    "purposes": [
+      "Visa and Immigration",
+      "Undergraduate Admission",
+      "Graduate Admission"
+    ],
+    "sections": ["Writing", "Reading", "Listening", "Speaking"],
+    "max_score": {
+      "Writing": "30",
+      "Reading": "30",
+      "Listening": "30",
+      "Speaking": "30"
+    },
+    "cross_sell":["GRE","SAT"]
+  },
+  "gre": {
+    "or": true,
+    "exam_type": ["General Test", "Subject Test"],
+    "purposes": [
+      "Graduate Admission",
+      "MBA Admission",
+      "Doctorate Admission",
+      "General Purposes"
+    ],
+    "sections": [
+      {
+        "type": "General Test",
+        "papers": [
+          "Analytical Writing/Essay",
+          "Verbal Reasoning",
+          "Quantitative Reasoning"
+        ]
+      },
+      {
+        "type": "Subject Test",
+        "papers": [
+          "Biology",
+          "Chemistry",
+          "Literature in English",
+          "Mathematics",
+          "Physics",
+          "Psychology"
+        ]
+      }
+    ],
+    "max_score": [
+      {
+        "type": "General Test",
+        "options": [
+          "Analytical Writing-6",
+          "Verbal Reasoning-170",
+          "Quantitative Reasoning-170"
+        ]
+      },
+      {
+        "type": "Subject Test",
+        "score": 990
+      }
+    ],
+    "cross_sell": ["Materials", "Registration", "TOEFL"]
+  },
+  "sat": {
+    "or": true,
+    "exam_type": ["SAT I - Reasoning Test", "SAT II - Subject Test"],
+    "purposes": ["Undergraduate Admission", "General Purposes"],
+    "sections": [
+      {
+        "type": "SAT I - Reasoning Test",
+        "papers": ["Reading", "Writing and Language", "Math", "Essay"]
+      },
+      {
+        "type": "SAT II - Subject Test",
+        "papers": [
+          "Math Level 1",
+          "Math Level 2",
+          "Biology",
+          "Chemistry",
+          "Physics",
+          "English",
+          "U.S. History",
+          "World History"
+        ]
+      }
+    ],
+    "max_score": [
+      {
+        "type": "SAT I - Reasoning Test",
+        "options": [
+          "Reading-800",
+          "Writing and Language-800",
+          "Math-800",
+          "Essay-12"
+        ]
+      },
+      {
+        "type": "SAT II - Subject Test",
+        "options": [
+          "Math Level 1-800",
+          "Math Level 2-800",
+          "Biology-800",
+          "Chemistry-800",
+          "Physics-800",
+          "English-800",
+          "U.S. History-800",
+          "World History-800"
+        ]
+      }
+    ],
+    "cross_sell": ["Materials", "Registration", "TOEFL"]
+  },
+  "gmat": {
+    "purposes": [
+      "Graduate Admission",
+      "MBA Admission",
+      "Recruitment Exam",
+      "General Purposes"
+    ],
+    "sections": [
+      "Analytical Writing Assessment",
+      "Integrated Reasoning",
+      "Quantitative Reasoning",
+      "Verbal Reasoning"
+    ],
+    "max_score": [
+      "Analytical Writing Assessment-6",
+      "Integrated Reasoning-8",
+      "Quantitative Reasoning-800",
+      "Verbal Reasoning-800"
+    ],
+    "cross_sell": ["Materials", "Registration", "TOEFL"]
+  },
+  "acca": {
+    "or": true,
+    "exam_type": [
+      "Knowledge (F1 - F3)",
+      "Skills (F4 - F9)",
+      "Essentials (P1 - P3)",
+      "Options (P4 - P7)"
+    ],
+    "purposes": "ACCA Certification",
+    "sections": [
+      {
+        "type": "Knowledge (F1 - F3)",
+        "papers": [
+          "F1 – Accountant in Business",
+          "F2 – Management Accounting",
+          "F3 – Financial Accounting"
+        ]
+      },
+      {
+        "type": "Skills (F4 - F9)",
+        "papers": [
+          "F4 – Corporate and Business Law",
+          "F5 – Performance Management",
+          "F6 – Taxation",
+          "F7 – Financial Reporting",
+          "F8 – Audit and Assurance",
+          "F9 – Financial Management"
+        ]
+      },
+      {
+        "type": "Essentials (P1 - P3)",
+        "papers": [
+          "P1 – Governance, Risk and Ethics",
+          "P2 – Corporate Reporting",
+          "P3 – Business Analysis"
+        ]
+      },
+      {
+        "type": "Options (P4 - P7)",
+        "papers": [
+          "P4 – Advanced Financial Management",
+          "P5 – Advanced Performance Management",
+          "P6 – Advanced Taxation",
+          "P7 – Advanced Audit and Assurance"
+        ]
+      }
+    ],
+    "max_score": [
+      {
+        "type": "Knowledge (F1 - F3)",
+        "options": [
+          "F1 – Accountant in Business-800",
+          "F2 – Management Accounting-800",
+          "F3 – Financial Accounting-800"
+        ]
+      },
+      {
+        "type": "Skills (F4 - F9)",
+        "options": [
+          "F4 – Corporate and Business Law-800",
+          "F5 – Performance Management-800",
+          "F6 – Taxation-800",
+          "F7 – Financial Reporting-800",
+          "F8 – Audit and Assurance-800",
+          "F9 – Financial Management-800"
+        ]
+      },
+      {
+        "type": "Essentials (P1 - P3)",
+        "options": [
+          "P1 – Governance, Risk and Ethics-800",
+          "P2 – Corporate Reporting-800",
+          "P3 – Business Analysis-800"
+        ]
+      },
+      {
+        "type": "Options (P4 - P7)",
+        "options": [
+          "P4 – Advanced Financial Management-800",
+          "P5 – Advanced Performance Management-800",
+          "P6 – Advanced Taxation-800",
+          "P7 – Advanced Audit and Assurance-800"
+        ]
+      }
+    ],
+    "cross_sell": ["Financial Analysis", "Advanced Microsoft Excel"]
+  },
+  "ican": {
+    "or": false,
+    "exam_type": [
+      "Foundation (A1 - A5)",
+      "Skills (B1 - B6)",
+      "Professional (C1 - C5)"
+    ],
+    "purposes": "ICAN Certification",
+    "sections": [
+      {
+        "type": "Foundation (A1 - A5)",
+        "papers": [
+          "A1 - Quantitative Techniques in Business",
+          "A2 - Business and Finance",
+          "A3 - Financial Accounting",
+          "A4 - Management Information",
+          "A5 - Business Law"
+        ]
+      },
+      {
+        "type": "Skills (B1 - B6)",
+        "papers": [
+          "B1 - Financial Reporting",
+          "B2 - Audit and Assurance",
+          "B3 - Taxation",
+          "B4 - Performance Management",
+          "B5 - Public Sector Accounting & Finance",
+          "B6 - Management, Governance & Ethics"
+        ]
+      },
+      {
+        "type": "Professional (C1 - C5)",
+        "papers": [
+          "C1 - Corporate Reporting",
+          "C2 - Advanced Audit and Assurance",
+          "C3 - Strategic Financial Management",
+          "C4 - Advanced Taxation",
+          "C5 - Case Study"
+        ]
+      }
+    ],
+    "cross_sell": ["Financial Analysis", "Advanced Microsoft Excel"]
+  }
+}
