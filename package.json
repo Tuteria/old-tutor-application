@@ -15,7 +15,7 @@
     "create-react-context": "^0.1.6",
     "hellojs": "^1.18.1",
     "katex": "^0.10.0-beta",
-    "lazysizes": "^4.0.2",
+    "lazysizes": "^5.2.1",
     "quill": "^1.3.6",
     "quill-delta-to-html": "^0.8.0",
     "react-day-picker": "^7.1.9",
